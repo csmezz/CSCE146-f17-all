@@ -13,7 +13,7 @@ This Practice Project should implement a singly-Linked List that can store any o
 * Remove : Removes the node at the Current Position
 * Append(T) : Adds a Node to the end of the list
 * Prepend(T) : Adds a Node to the Beginning of the list
-* get [Returns T] : Retreives the String at the current position
+* get [Returns T] : Retreives the Object at the current position
 
 ***
 
@@ -22,6 +22,6 @@ This Practice Project should implement a singly-Linked List that can store any o
 Imagine that the Linked List has indicies at each of the positions of the List. Implement this in the Following Functions
 
 * Insert(T, int index) : Insert a Node at the following position in the List
-* Replace(T, int index) : Replace the String at the position in the list
+* Replace(T, int index) : Replace the Object at the position in the list
 * Remove(int index) : Remove Node at given Index
-* get(int index) [Returns T] : Retreives String at given Index
+* get(int index) [Returns T] : Retreives Object at given Index
