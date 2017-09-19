@@ -10,5 +10,6 @@ You will find materials that I used in my SI Sessions here. The Directories are 
 * Worksheets -> Paper Worksheets with short problems on them
 * PracticeProjects -> Larger Practice Projects that go over concepts taught in class
 * docs -> Extra Documents that you probably won't need.
+* Solutions -> Solutions to homework and Labs (after they are collected) that people ask me to do
 
 You should also check out the Wiki, which has extra information about these sessions.
