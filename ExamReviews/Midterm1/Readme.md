@@ -8,19 +8,18 @@ This is a preactice exam designed to help you all prepare for the upcoming midte
   * What does this code print out?
   * What error if any will this code segment give?
   * Write a function that finds the minimum number in an array
-  * Write a function that does something else simple
 * Data Structures
   * LinkedList
     * List advantages and disadvantages of using LinkedList over Array
     * Draw insertion and removal procedure for LinkedList
-    * Write function to insert a node
-    * Write function to delete a node after a given value
+    * Write function to insert a node after Current
+    * Write function to delete a node after Current
     * Write function to do something with a LinkedList
   * Queues
-    * What will this code snippet print out?
-      * Have it enqueue, dequeue, and peek numbers.
     * Draw the Queue at each operation
       * Add and remove numbers from queue
+    * What will this code snippet print out?
+      * Have it enqueue, dequeue, and peek numbers.
     * Write code to enqueue a number
     * Write code to dequeue a number
   * Stacks
@@ -29,17 +28,18 @@ This is a preactice exam designed to help you all prepare for the upcoming midte
     * Draw Stack at each operation
       * Push, Pop
     * Write a Stack using Links
-    * Write a Stack using Arrays
+      * Write Push and Pop Functions 
 * Recursion
   * What data structure can be used to illustrate Recursion?
     * -> Stacks!
   * What does this recursive method do?
+    * Triangular Numbers
 * Searching and Sorting Algorithms
-  * Write BinarySearch
+  * Perform a BinarySearch
   * Do a Mergesort on a given array
-  * Write code for Mergesort
-  * Quicksort?
+  * Perform Quicksort on a given array
 * Asymptotics
   * Sort Big Oh by how fast they grow.
+  * Know what Big Oh Complexity an Algorithm has
           
 Leave time for other students to bring problems
