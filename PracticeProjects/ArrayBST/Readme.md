@@ -5,7 +5,6 @@
 *Purpose: To understand how to do another implementation of a BST*
 
 This project will be the implementation of a Binary Search Tree using an array to store the data. It should implement the following functions:
-* function(Params) [Returns Something] : Description of what the Function does
 * ArrayBST() : Creates a new, blank Binary Search Tree
 * ArrayBST(int) : Creates a new Binary Search Tree where the array is the size of the int parameter
 * insert(T data) : Insert the data into the tree
@@ -18,4 +17,5 @@ This project will be the implementation of a Binary Search Tree using an array t
 
 Add the following functions:
 **You will not be tested on Delete() in an Array BST**
+* find(T data) [Returns true if found] : Finds a piece of data in the tree. Returns false if it cannot be found.
 * delete(T data) : Finds and Deletes data in a tree
